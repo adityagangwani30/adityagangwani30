@@ -129,23 +129,6 @@ Comprehensive UX audit of Amazon's mobile checkout flow with competitive benchma
 
 ---
 
-### 📈 Numbers
-
-<div align="center">
-
-| Metric | Value |
-|--------|-------|
-| Students reached (IEEE outreach) | **2,800+** |
-| Events coordinated | **50+** |
-| Projects completed | **20+** |
-| Teams led | **5+** |
-| CV pipeline accuracy (Samsung) | **90%+** |
-| ML model accuracy (price classifier) | **92%** |
-
-</div>
-
----
-
 ### 💼 Experience
 
 **Research Intern** — Samsung R&D Institute India *(Dec 2025 – Present)*
