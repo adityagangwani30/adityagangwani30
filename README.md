@@ -5,12 +5,12 @@
 
 <br>
 
-**Building intelligent systems with a blend of project execution and software engineering.**
+**Building intelligent systems with a focus on research rigor, project execution, and software engineering.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-gangwani-615271246/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/adityagangwani30)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:adityagangwaniexam@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://adityagangwani.me/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://adityagangwani.me)
 
 </div>
 
@@ -18,13 +18,38 @@
 
 ### `$ whoami`
 
-I'm a 21-year-old Research Intern at **Samsung R&D Institute India**, ECE undergraduate at M.S. Ramaiah Institute of Technology, Bengaluru, and project management enthusiast. I've built **20+ projects** spanning AI-powered agents, DevOps automation, and ML classifiers — and I care deeply about systems that deliver real-world impact, not just demo videos.
+I'm a 21-year-old Research Intern at **Samsung R&D Institute India** and an ECE undergraduate at M.S. Ramaiah Institute of Technology, Bengaluru. My work spans applied AI, reinforcement learning, and project execution, with an emphasis on systems that are measurable, reproducible, and useful in practical settings.
 
-Currently: developing AI-powered appliance troubleshooting systems with Computer Vision, coordinating IEEE outreach programs for 2,800+ students, and shipping production-grade intelligent software.
+I've built **20+ projects** across AI-powered agents, DevOps automation, and ML classifiers. Current work includes AI-based appliance troubleshooting with Computer Vision, IEEE outreach coordination for 2,800+ students, and production-oriented intelligent software.
 
 ---
 
-### ⚡ What I've Actually Built
+### Research Focus
+
+- Deep Reinforcement Learning for Autonomous Systems
+- Adaptive Decision-Making under Uncertainty
+- Computer Vision for Real-World Applications
+- AI Systems Design with Robustness & Explainability
+
+Current work centers on TD3, reward shaping, and sensor noise robustness for reliable continuous-control learning.
+
+---
+
+### Featured Research Project
+
+**TD3 Self-Driving Car** explores autonomous racing as a continuous control problem using **TD3 (Twin Delayed DDPG)**.
+
+- TD3 as the core actor-critic method
+- Continuous control for steering and throttle
+- Reward shaping strategy focused on progress and lap completion
+- Sensor noise robustness for more stable policy learning
+- Simulation environment for repeatable experimentation
+
+This project is part of an upcoming research paper on reward design and robustness in autonomous driving.
+
+---
+
+### Selected Projects
 
 <table>
 <tr>
@@ -33,7 +58,7 @@ Currently: developing AI-powered appliance troubleshooting systems with Computer
 **🤖 ADDY AI Agent**
 <br><sub>Python · FastAPI · Gemini · Gmail/Calendar/Drive APIs · Telegram</sub>
 
-Production-grade AI agent automating **50+ tasks/day** across Google Workspace. Hybrid decision pipeline combining rule-based routing and LLM-driven planning for reliable multi-account execution. Real-world task automation that actually works.
+Production-grade AI agent automating **50+ tasks/day** across Google Workspace. Hybrid decision pipeline combining rule-based routing and LLM-driven planning for reliable multi-account execution in operational settings.
 
 </td>
 <td width="50%" valign="top">
@@ -41,7 +66,7 @@ Production-grade AI agent automating **50+ tasks/day** across Google Workspace. 
 **🔧 DevOps Autopilot**
 <br><sub>Next.js · Node.js · Express · Gemini · GitHub API · Slack</sub>
 
-AI-powered DevOps copilot with observe-reason-act loop. Monitors CI/CD pipelines, diagnoses incidents via webhook ingestion, evaluates deploy risk, and proposes remediation with approval-based flows. Built for **HackAWar hackathon**.
+AI-powered DevOps copilot with an observe-reason-act loop. Monitors CI/CD pipelines, diagnoses incidents via webhook ingestion, evaluates deployment risk, and proposes remediation through approval-based flows. Built for **HackAWar hackathon**.
 
 </td>
 </tr>
@@ -51,7 +76,7 @@ AI-powered DevOps copilot with observe-reason-act loop. Monitors CI/CD pipelines
 **🔍 Samsung Error Code Detection System**
 <br><sub>OpenCV · EasyOCR · Computer Vision · Image Processing</sub>
 
-Multi-stage CV pipeline for AI-powered appliance troubleshooting at Samsung R&D. Dictionary-based validation with candidate scoring for robust text extraction. **90%+ reliability** on complex device displays with varying lighting and angles.
+Multi-stage CV pipeline for appliance troubleshooting at Samsung R&D. Dictionary-based validation with candidate scoring improves text extraction across varied lighting and viewing angles. **90%+ reliability** on complex device displays.
 
 </td>
 <td width="50%" valign="top">
@@ -59,7 +84,7 @@ Multi-stage CV pipeline for AI-powered appliance troubleshooting at Samsung R&D.
 **🚗 TD3 Self-Driving Car**
 <br><sub>PyTorch · Pygame · Reinforcement Learning · TD3 Algorithm</sub>
 
-RL simulation where a car learns racing circuits autonomously. Actor-critic training with clipped double-Q learning, delayed policy updates, five raycasting sensors, and reward shaping. Real-time Pygame visualization of learned behaviors.
+RL simulation where an agent learns racing circuits autonomously. Actor-critic training with clipped double-Q learning, delayed policy updates, raycasting sensors, and reward shaping.
 
 </td>
 </tr>
@@ -69,7 +94,7 @@ RL simulation where a car learns racing circuits autonomously. Actor-critic trai
 **📱 Mobile Price Classifier**
 <br><sub>Scikit-learn · Flask · Random Forest · Render</sub>
 
-ML model achieving **92% accuracy** in price range classification based on 20+ hardware/software features. Full-stack web app deployed on Render with end-to-end prediction pipeline.
+ML model achieving **92% accuracy** in price range classification from 20+ hardware/software features. Full-stack web app deployed on Render with an end-to-end prediction pipeline.
 
 </td>
 <td width="50%" valign="top">
@@ -77,7 +102,7 @@ ML model achieving **92% accuracy** in price range classification based on 20+ h
 **🎯 Amazon UX Audit**
 <br><sub>Figma · Notion · UX Research · Competitive Analysis</sub>
 
-Comprehensive UX audit of Amazon's mobile checkout flow with competitive benchmarking against Myntra and Flipkart. Identified **6+ critical usability gaps** with potential **5-10% conversion improvement**.
+Structured UX audit of Amazon's mobile checkout flow with competitive benchmarking against Myntra and Flipkart. Identified **6+ critical usability gaps** with a potential **5-10% conversion improvement**.
 
 </td>
 </tr>
@@ -175,14 +200,14 @@ Comprehensive UX audit of Amazon's mobile checkout flow with competitive benchma
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityagangwani30&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityagangwani30&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityagangwani30&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&cache_seconds=1800" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityagangwani30&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&cache_seconds=1800" alt="Top Languages" height="165" />
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=adityagangwani30&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6D00&currStreakLabel=58A6FF" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=adityagangwani30&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6D00&currStreakLabel=58A6FF" alt="GitHub Streak Stats" />
+</p>
 
 ---
 
@@ -209,6 +234,6 @@ Comprehensive UX audit of Amazon's mobile checkout flow with competitive benchma
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-gangwani-615271246/)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityagangwaniexam@gmail.com)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aditya-portfolio-sigma-two.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://adityagangwani.me)
 
 </div>
