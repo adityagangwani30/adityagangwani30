@@ -84,7 +84,7 @@ Multi-stage CV pipeline for appliance troubleshooting at Samsung R&D. Dictionary
 **🚗 TD3 Self-Driving Car**
 <br><sub>PyTorch · Pygame · Reinforcement Learning · TD3 Algorithm</sub>
 
-RL simulation where an agent learns racing circuits autonomously. Actor-critic training with clipped double-Q learning, delayed policy updates, raycasting sensors, and reward shaping.
+Research-driven RL project analyzing TD3 vs DDPG for autonomous driving. Multi-metric evaluation across reward, crash rate, and stability under reward shaping and sensor noise, with a custom Pygame environment using continuous control and raycasting sensors.
 
 </td>
 </tr>
