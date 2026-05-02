@@ -206,7 +206,7 @@ Structured UX audit of Amazon's mobile checkout flow with competitive benchmarki
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=adityagangwani30&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6D00&currStreakLabel=58A6FF&v=1" alt="GitHub Streak Stats" />
+  <img src="github-readme-streak-stats-gamma-orcin.vercel.app&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6D00&currStreakLabel=58A6FF&v=1" alt="GitHub Streak Stats" />
 </div>
 
 ---
