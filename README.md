@@ -201,8 +201,8 @@ Structured UX audit of Amazon's mobile checkout flow with competitive benchmarki
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="github-readme-stats-adityagangwaniexam-7123s-projects.vercel.app/api?username=adityagangwani30&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&v=1" alt="GitHub Stats" height="165" />
-  <img src="github-readme-stats-adityagangwaniexam-7123s-projects.vercel.app/api/top-langs/?username=adityagangwani30&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&v=1" alt="Top Languages" height="165" />
+  <img src="github-readme-stats-omega-orpin-81.vercel.app/api?username=adityagangwani30&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&v=1" alt="GitHub Stats" height="165" />
+  <img src="github-readme-stats-omega-orpin-81.vercel.app/api/top-langs/?username=adityagangwani30&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&v=1" alt="Top Languages" height="165" />
 </div>
 
 <div align="center">
