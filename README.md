@@ -200,14 +200,14 @@ Structured UX audit of Amazon's mobile checkout flow with competitive benchmarki
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityagangwani30&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&cache_seconds=1800" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityagangwani30&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&cache_seconds=1800" alt="Top Languages" height="165" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityagangwani30&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&v=1" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityagangwani30&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&v=1" alt="Top Languages" height="165" />
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=adityagangwani30&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6D00&currStreakLabel=58A6FF" alt="GitHub Streak Stats" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=adityagangwani30&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6D00&currStreakLabel=58A6FF&v=1" alt="GitHub Streak Stats" />
+</div>
 
 ---
 
