@@ -208,7 +208,6 @@ Structured UX audit of Amazon's mobile checkout flow with competitive benchmarki
 <div align="center">
   <img src="https://github-readme-streak-stats-gamma-orcin.vercel.app/?user=adityagangwani30&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6D00&currStreakLabel=58A6FF&v=2" alt="GitHub Streak Stats" />
 </div>
----
 
 ### 🔭 What's Next — 2026
 
