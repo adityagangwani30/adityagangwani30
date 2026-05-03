@@ -47,6 +47,13 @@ Current work centers on TD3, reward shaping, and sensor noise robustness for rel
 
 This project is part of an upcoming research paper on reward design and robustness in autonomous driving.
 
+**Sales Sense AI – ML-Powered Retail Analytics**
+
+- End-to-end ML pipeline with feature engineering and model training
+- Random Forest & XGBoost regression models with high R² performance
+- SQL-based analytics for revenue trends and customer segmentation
+- ROI-driven decision system for inventory optimization
+
 ---
 
 ### Selected Projects
@@ -73,10 +80,10 @@ AI-powered DevOps copilot with an observe-reason-act loop. Monitors CI/CD pipeli
 <tr>
 <td width="50%" valign="top">
 
-**🔍 Samsung Error Code Detection System**
-<br><sub>OpenCV · EasyOCR · Computer Vision · Image Processing</sub>
+**📊 Sales Sense AI – Retail Analytics Platform**
+<br><sub>Python · Scikit-learn · XGBoost · MySQL · Next.js</sub>
 
-Multi-stage CV pipeline for appliance troubleshooting at Samsung R&D. Dictionary-based validation with candidate scoring improves text extraction across varied lighting and viewing angles. **90%+ reliability** on complex device displays.
+End-to-end ML pipeline for retail sales prediction and analytics across two independent datasets. Achieved **R² = 0.985 / 0.938** with strong cross-validation performance. SQL-driven insights, customer segmentation, and inventory optimization enable **400% projected ROI** through overstock/understock detection.
 
 </td>
 <td width="50%" valign="top">
