@@ -81,7 +81,7 @@ Multi-stage CV pipeline for appliance troubleshooting at Samsung R&D. Dictionary
 </td>
 <td width="50%" valign="top">
 
-**🚗 TD3 Self-Driving Car**
+**🚗 TD3 v/s DDPG Self-Driving Car**
 <br><sub>PyTorch · Pygame · Reinforcement Learning · TD3 Algorithm</sub>
 
 Research-driven RL project analyzing TD3 vs DDPG for autonomous driving. Multi-metric evaluation across reward, crash rate, and stability under reward shaping and sensor noise, with a custom Pygame environment using continuous control and raycasting sensors.
