@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Aditya+Gangwani;AI%2FML+Engineer+%7C+Research+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Hi%2C+I%27m+Aditya+Gangwani+%F0%9F%91%8B;Research+Intern+%40+Samsung+R%26D+India;ECE+Undergrad+%7C+AI+%7C+RL+%7C+CV+%7C+DevOps)](https://git.io/typing-svg)
 
 <br>
 
@@ -18,9 +18,22 @@
 
 ### `$ whoami`
 
-I'm a 21-year-old Research Intern at **Samsung R&D Institute India** and an ECE undergraduate at M.S. Ramaiah Institute of Technology, Bengaluru. My work spans applied AI, reinforcement learning, and project execution, with an emphasis on systems that are measurable, reproducible, and useful in practical settings.
+I'm a 21-year-old Research Intern at **Samsung R&D Institute India** and an ECE undergraduate at M.S. Ramaiah Institute of Technology, Bengaluru. My work spans applied AI, reinforcement learning, and computer vision — with a strong focus on building real-world systems that ship.
 
-I've built **20+ projects** across AI-powered agents, DevOps automation, and ML classifiers. Current work includes AI-based appliance troubleshooting with Computer Vision, IEEE outreach coordination for 2,800+ students, and production-oriented intelligent software.
+I've built **20+ projects** across AI-powered agents, DevOps automation, and ML classifiers. Current work includes AI-based appliance troubleshooting with Computer Vision, IEEE outreach coordination, and research-driven RL experiments (TD3/DDPG).
+
+---
+
+### 💼 Experience
+
+**Research Intern** — Samsung R&D Institute India *(Dec 2025 – Present)*
+- Developing AI-powered appliance troubleshooting system using Computer Vision and OCR
+- Built multi-stage image processing pipeline with OpenCV and EasyOCR achieving 90%+ reliability
+- Implemented dictionary-based validation and candidate scoring for robust error code detection
+
+**Project Management Intern** — R Social *(Aug 2025 – Sep 2025)*
+- Coordinated cross-functional teams (SEO & content) delivering 7+ weekly deliverables
+- Reduced meeting time by 25% through Excel-based tracking and process optimizations
 
 ---
 
@@ -65,7 +78,7 @@ This project is part of an upcoming research paper on reward design and robustne
 **🤖 ADDY AI Agent**
 <br><sub>Python · FastAPI · Gemini · Gmail/Calendar/Drive APIs · Telegram</sub>
 
-Production-grade AI agent automating **50+ tasks/day** across Google Workspace. Hybrid decision pipeline combining rule-based routing and LLM-driven planning for reliable multi-account execution in operational settings.
+Production-grade AI agent automating **50+ tasks/day** across Google Workspace. Hybrid decision pipeline combining rule-based routing and LLM-driven planning for reliable multi-account execution in production.
 
 </td>
 <td width="50%" valign="top">
@@ -73,7 +86,7 @@ Production-grade AI agent automating **50+ tasks/day** across Google Workspace. 
 **🔧 DevOps Autopilot**
 <br><sub>Next.js · Node.js · Express · Gemini · GitHub API · Slack</sub>
 
-AI-powered DevOps copilot with an observe-reason-act loop. Monitors CI/CD pipelines, diagnoses incidents via webhook ingestion, evaluates deployment risk, and proposes remediation through approval-based flows. Built for **HackAWar hackathon**.
+AI-powered DevOps copilot with an observe-reason-act loop. Monitors CI/CD pipelines, diagnoses incidents via webhook ingestion, evaluates deployment risk, and proposes remediation through approval-based actions.
 
 </td>
 </tr>
@@ -83,7 +96,7 @@ AI-powered DevOps copilot with an observe-reason-act loop. Monitors CI/CD pipeli
 **📊 Sales Sense AI – Retail Analytics Platform**
 <br><sub>Python · Scikit-learn · XGBoost · MySQL · Next.js</sub>
 
-End-to-end ML pipeline for retail sales prediction and analytics across two independent datasets. Achieved **R² = 0.985 / 0.938** with strong cross-validation performance. SQL-driven insights, customer segmentation, and inventory optimization enable **400% projected ROI** through overstock/understock detection.
+End-to-end ML pipeline for retail sales prediction and analytics across two independent datasets. Achieved **R² = 0.985 / 0.938** with strong cross-validation performance. SQL-driven insights, customer segmentation, and a decision layer for inventory optimization.
 
 </td>
 <td width="50%" valign="top">
@@ -91,7 +104,7 @@ End-to-end ML pipeline for retail sales prediction and analytics across two inde
 **🚗 TD3 v/s DDPG Self-Driving Car**
 <br><sub>PyTorch · Pygame · Reinforcement Learning · TD3 Algorithm</sub>
 
-Research-driven RL project analyzing TD3 vs DDPG for autonomous driving. Multi-metric evaluation across reward, crash rate, and stability under reward shaping and sensor noise, with a custom Pygame environment using continuous control and raycasting sensors.
+Research-driven RL project analyzing TD3 vs DDPG for autonomous driving. Multi-metric evaluation across reward, crash rate, and stability under reward shaping and sensor noise, with a custom Pygame simulator.
 
 </td>
 </tr>
@@ -116,7 +129,6 @@ Structured UX audit of Amazon's mobile checkout flow with competitive benchmarki
 </table>
 
 ---
-
 
 ## 🛠️ Stack
 
@@ -161,19 +173,6 @@ Structured UX audit of Amazon's mobile checkout flow with competitive benchmarki
 
 ---
 
-### 💼 Experience
-
-**Research Intern** — Samsung R&D Institute India *(Dec 2025 – Present)*
-- Developing AI-powered appliance troubleshooting system using Computer Vision and OCR
-- Built multi-stage image processing pipeline with OpenCV and EasyOCR achieving 90%+ reliability
-- Implemented dictionary-based validation and candidate scoring for robust error code detection
-
-**Project Management Intern** — R Social *(Aug 2025 – Sep 2025)*
-- Coordinated cross-functional teams (SEO & content) delivering 7+ weekly deliverables
-- Reduced meeting time by 25% through Excel-based tracking and process optimizations
-
----
-
 ### 🏛️ Leadership
 
 **Outreach Program Coordinator** — IEEE RIT-B *(2025)* · Led 2-day STEM outreach for 100+ students with hands-on sessions on sensors, TinkerCad, and design thinking
@@ -208,12 +207,12 @@ Structured UX audit of Amazon's mobile checkout flow with competitive benchmarki
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-omega-orpin-81.vercel.app/api?username=adityagangwani30&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&v=2" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-omega-orpin-81.vercel.app/api/top-langs/?username=adityagangwani30&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&v=2" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-omega-orpin-81.vercel.app/api?username=adityagangwani30&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="170" />
+  <img src="https://github-readme-stats-omega-orpin-81.vercel.app/api/top-langs/?username=adityagangwani30&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-gamma-orcin.vercel.app/?user=adityagangwani30&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6D00&currStreakLabel=58A6FF&v=2" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats-gamma-orcin.vercel.app/?user=adityagangwani30&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6D00&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9" height="190" />
 </div>
 
 ---
