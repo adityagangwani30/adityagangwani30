@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- Dynamic typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Hi%2C+I%27m+Aditya+Gangwani+%F0%9F%91%8B;Research+Intern+%40+Samsung+R%26D+India;ECE+Undergrad+%7C+AI+%7C+RL+%7C+CV+%7C+DevOps)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Aditya+Gangwani;AI%2FML+Enthusiast+%7C+Research+Engineer)](https://git.io/typing-svg)
 <br>
 
 **Building intelligent systems with a focus on research rigor, project execution, and software engineering.**
