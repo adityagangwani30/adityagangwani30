@@ -19,7 +19,7 @@
 
 I'm a 21-year-old Research Intern at **Samsung R&D Institute India** and an ECE undergraduate at M.S. Ramaiah Institute of Technology, Bengaluru. My work spans applied AI, reinforcement learning, and computer vision — with a strong focus on building real-world systems that ship.
 
-I've built **20+ projects** across AI-powered agents, DevOps automation, and ML classifiers. Current work includes AI-based appliance troubleshooting with Computer Vision, IEEE outreach coordination, and research-driven RL experiments (TD3/DDPG).
+I've built **10+ projects** across AI-powered agents, DevOps automation, and ML classifiers. Current work includes AI-based appliance troubleshooting with Computer Vision, IEEE outreach coordination, and research-driven RL experiments (TD3/DDPG).
 
 ---
 
