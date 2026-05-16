@@ -47,27 +47,6 @@ Current work centers on TD3, reward shaping, and sensor noise robustness for rel
 
 ---
 
-### Featured Research Project
-
-**TD3 Self-Driving Car** explores autonomous racing as a continuous control problem using **TD3 (Twin Delayed DDPG)**.
-
-- TD3 as the core actor-critic method
-- Continuous control for steering and throttle
-- Reward shaping strategy focused on progress and lap completion
-- Sensor noise robustness for more stable policy learning
-- Simulation environment for repeatable experimentation
-
-This project is part of an upcoming research paper on reward design and robustness in autonomous driving.
-
-**Sales Sense AI – ML-Powered Retail Analytics**
-
-- End-to-end ML pipeline with feature engineering and model training
-- Random Forest & XGBoost regression models with high R² performance
-- SQL-based analytics for revenue trends and customer segmentation
-- ROI-driven decision system for inventory optimization
-
----
-
 ### Selected Projects
 
 <table>
