@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- Dynamic typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Aditya+Gangwani;AI%2FML+Enthusiast+%7C+Research+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Aditya+Gangwani;Product+Manager+%7C+AI+Product+Builder)](https://git.io/typing-svg)
 <br>
 
-**Building intelligent systems with a focus on research rigor, project execution, and software engineering.**
+**Building AI-native products with a focus on product strategy, technical execution, and shipped systems.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-gangwani-615271246/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/adityagangwani30)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:adityagangwaniexam@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:aditya@adityagangwani.me)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://adityagangwani.me)
 
 </div>
@@ -17,33 +17,36 @@
 
 ### `$ whoami`
 
-I'm a 21-year-old Research Intern at **Samsung R&D Institute India** and an ECE undergraduate at M.S. Ramaiah Institute of Technology, Bengaluru. My work spans applied AI, reinforcement learning, and computer vision — with a strong focus on building real-world systems that ship.
+I'm a Product Manager at **SOYL AI**, currently leading product discovery and architecture for an AI Revenue Intelligence Platform, and an ECE undergraduate at M.S. Ramaiah Institute of Technology, Bengaluru. My work spans product strategy, applied AI, and software engineering — with a focus on understanding problems deeply enough to define the product AND build the system behind it.
 
-I've built **10+ projects** across AI-powered agents, DevOps automation, and ML classifiers. Current work includes AI-based appliance troubleshooting with Computer Vision, IEEE outreach coordination, and research-driven RL experiments (TD3/DDPG).
+I'm the creator of **FeatureSmith** (open-source dataset review platform, v0.3.0) and **Prodily** (a free PM learning platform), and the builder of **RallyVerse**, a live sports event registration & operations platform. Earlier work includes AI-based appliance troubleshooting with Computer Vision at Samsung R&D, and research-driven RL experiments (TD3/DDPG).
 
 ---
 
 ### 💼 Experience
 
-**Research Intern** — Samsung R&D Institute India *(Dec 2025 – Present)*
-- Developing AI-powered appliance troubleshooting system using Computer Vision and OCR
-- Built multi-stage image processing pipeline with OpenCV and EasyOCR achieving 90%+ reliability
-- Implemented dictionary-based validation and candidate scoring for robust error code detection
+**Product Manager** — SOYL AI *(Aug 2026 – Present)*
+- Leading product discovery, market/competitive research, and product architecture for ARIP, an AI Revenue Intelligence Platform for hospitality
+- Translating ambiguous operational problems into structured product requirements and scalable workflows across research, engineering, and business teams
 
-**Project Management Intern** — R Social *(Aug 2025 – Sep 2025)*
-- Coordinated cross-functional teams (SEO & content) delivering 7+ weekly deliverables
-- Reduced meeting time by 25% through Excel-based tracking and process optimizations
+**Product Strategy Intern** — IntelAbroad *(Jul 2026)*
+- Mapped the end-to-end student lead lifecycle and benchmarked competing consultancies to identify conversion bottlenecks and workflow gaps
+- Authored PRDs for CRM enhancements and applied RICE prioritization to sequence the roadmap
+
+**Research Intern** — Samsung R&D Institute India *(Dec 2025 – Jul 2026)*
+- Built a multi-stage image processing pipeline with OpenCV and EasyOCR for appliance error-code extraction, achieving 90%+ reliability
+- Introduced early-exit preprocessing and dictionary-based validation for lower latency and more robust detection
 
 ---
 
-### Research Focus
+### Current Focus
 
+- AI-Native Product Discovery & Architecture
+- Dataset Quality Engineering for ML Systems
 - Deep Reinforcement Learning for Autonomous Systems
-- Adaptive Decision-Making under Uncertainty
 - Computer Vision for Real-World Applications
-- AI Systems Design with Robustness & Explainability
 
-Current work centers on TD3, reward shaping, and sensor noise robustness for reliable continuous-control learning.
+Current work centers on ARIP's product roadmap at SOYL AI and FeatureSmith's Phase 4 roadmap (recommendation engine, dashboard, CI/CD plugins).
 
 ---
 
@@ -53,54 +56,54 @@ Current work centers on TD3, reward shaping, and sensor noise robustness for rel
 <tr>
 <td width="50%" valign="top">
 
-**🤖 ADDY AI Agent**
-<br><sub>Python · FastAPI · Gemini · Gmail/Calendar/Drive APIs · Telegram</sub>
+**🧪 FeatureSmith** *(Open Source)*
+<br><sub>Python · Polars · MyPy · Ruff · CLI · SDK</sub>
 
-Production-grade AI agent automating **50+ tasks/day** across Google Workspace. Hybrid decision pipeline combining rule-based routing and LLM-driven planning for reliable multi-account execution in production.
-
-</td>
-<td width="50%" valign="top">
-
-**🔧 DevOps Autopilot**
-<br><sub>Next.js · Node.js · Express · Gemini · GitHub API · Slack</sub>
-
-AI-powered DevOps copilot with an observe-reason-act loop. Monitors CI/CD pipelines, diagnoses incidents via webhook ingestion, evaluates deployment risk, and proposes remediation through approval-based actions.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**📊 Sales Sense AI – Retail Analytics Platform**
-<br><sub>Python · Scikit-learn · XGBoost · MySQL · Next.js</sub>
-
-End-to-end ML pipeline for retail sales prediction and analytics across two independent datasets. Achieved **R² = 0.985 / 0.938** with strong cross-validation performance. SQL-driven insights, customer segmentation, and a decision layer for inventory optimization.
+Open-source, developer-first toolkit bringing CI/CD-style review to ML datasets — 9 automated reviewers, an explainable 0–100 ML Readiness Score, 6 leakage detectors, and dataset-diff. v0.3.0, Apache 2.0, **311 passing tests**, published to PyPI.
 
 </td>
 <td width="50%" valign="top">
 
-**🚗 TD3 v/s DDPG Self-Driving Car**
-<br><sub>PyTorch · Pygame · Reinforcement Learning · TD3 Algorithm</sub>
+**🏸 RallyVerse**
+<br><sub>Next.js · Node.js · Payments · Email Automation</sub>
 
-Research-driven RL project analyzing TD3 vs DDPG for autonomous driving. Multi-metric evaluation across reward, crash rate, and stability under reward shaping and sensor noise, with a custom Pygame simulator.
+Live sports event registration & operations platform — registration pages, UPI payment verification, organizer dashboard, event-day check-in, and analytics. 500+ community members, 3+ events hosted, 12+ partner organizations.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**📱 Mobile Price Classifier**
-<br><sub>Scikit-learn · Flask · Random Forest · Render</sub>
+**📚 Prodily**
+<br><sub>Next.js · TypeScript</sub>
 
-ML model achieving **92% accuracy** in price range classification from 20+ hardware/software features. Full-stack web app deployed on Render with an end-to-end prediction pipeline.
+Free, structured Product Management curriculum — 90 lessons across 9 modules, interactive quizzes, spaced-repetition flashcards, and skill tracking across 7 PM competencies. Free forever, no paywalled lessons.
 
 </td>
 <td width="50%" valign="top">
 
-**🎯 Amazon UX Audit**
-<br><sub>Figma · Notion · UX Research · Competitive Analysis</sub>
+**🤖 AI CTO Agent**
+<br><sub>Next.js · FastAPI · TypeScript · Neo4j</sub>
 
-Structured UX audit of Amazon's mobile checkout flow with competitive benchmarking against Myntra and Flipkart. Identified **6+ critical usability gaps** with a potential **5-10% conversion improvement**.
+End-to-end AI DevOps intelligence platform: repo analysis, CI/CD auditing, Sentry-driven root-cause analysis to Slack, pre-deployment risk scoring, and a knowledge-graph-grounded chatbot. MIT licensed, deployed on Vercel.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**💳 Credit Limit Bandit**
+<br><sub>Python · NumPy · SciPy · Streamlit</sub>
+
+Contextual multi-armed bandit (Thompson Sampling vs. UCB vs. Epsilon-Greedy) for credit-limit decisions, simulated across 10,000 users over 12 months. Thompson Sampling reached +39.1% revenue lift vs. static baseline in simulation.
+
+</td>
+<td width="50%" valign="top">
+
+**🧠 ADDY AI Agent**
+<br><sub>Python · FastAPI · Groq · Gmail/Calendar/Drive APIs · Telegram</sub>
+
+Telegram-based personal AI assistant with hybrid rule-first/LLM-fallback routing, multi-account OAuth, and a multi-step workflow planner/executor with confirmation gates for risky actions.
 
 </td>
 </tr>
@@ -111,20 +114,19 @@ Structured UX audit of Amazon's mobile checkout flow with competitive benchmarki
 ## 🛠️ Stack
 
 ### AI/ML
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://python.org)
 [![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?logo=TensorFlow&logoColor=white)]()
-[![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?logo=OpenCV&logoColor=white)]()
-[![LLMs](https://img.shields.io/badge/LLMs-42b983?logo=OpenAI&logoColor=white)]()
-[![Reinforcement Learning](https://img.shields.io/badge/RL-8a2be2?logo=OpenAI&logoColor=white)]()
-[![NLP](https://img.shields.io/badge/NLP-c93a2f?logo=OpenAI&logoColor=white)]()
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white)](https://pytorch.org)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)](https://opencv.org)
+[![OpenCV](https://img.shields.io/badge/Computer_Vision-5C3EE8?logo=OpenCV&logoColor=white)](https://opencv.org)
+[![Reinforcement Learning](https://img.shields.io/badge/RL-8a2be2?logo=OpenAI&logoColor=white)]()
+[![LLMs](https://img.shields.io/badge/LLMs-42b983?logo=OpenAI&logoColor=white)]()
+[![Polars](https://img.shields.io/badge/Polars-CD792C?logo=polars&logoColor=white)](https://pola.rs)
 
 ### Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://python.org)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://www.javascript.com)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://typescriptlang.org)
-[![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://www.javascript.com)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)]()
 
 ### Frameworks & Tools
@@ -132,8 +134,7 @@ Structured UX audit of Amazon's mobile checkout flow with competitive benchmarki
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://reactjs.org)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)](https://flask.palletsprojects.com)
-[![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)](https://expressjs.com)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 
 ### Cloud & DevOps
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com)
@@ -141,13 +142,14 @@ Structured UX audit of Amazon's mobile checkout flow with competitive benchmarki
 [![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)](https://vercel.com)
 [![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white)](https://render.com)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com)
+[![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white)](https://neo4j.com)
 
-### Project Management
+### Product Management
 [![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat)]()
 [![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat)]()
 [![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)](https://notion.so)
-[![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)]()
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](https://figma.com)
+[![PRDs](https://img.shields.io/badge/PRDs%20%26%20Roadmapping-4B0082?style=flat)]()
 
 ---
 
@@ -157,7 +159,7 @@ Structured UX audit of Amazon's mobile checkout flow with competitive benchmarki
 
 **Core Team, RIT TechFest 2025** — IEEE RIT-B *(2025)* · Led logistics and outreach for 25+ tech events reaching 2,800+ students
 
-**SAC Member** — IEEE Bangalore Section *(2024–Present)* · Launched joint initiatives across 100+ student branches improving engagement
+**SAC Member** — IEEE Bangalore Section *(2024–2025)* · Launched joint initiatives across 100+ student branches improving engagement
 
 **Vice Secretary** — IEEE RIT-B *(2024)* · Coordinated 50+ technical events with improved internal workflows
 
@@ -197,27 +199,27 @@ Structured UX audit of Amazon's mobile checkout flow with competitive benchmarki
 
 ### 🔭 What's Next — 2026
 
-- Expanding AI research contributions at Samsung R&D
-- Shipping production AI agents and DevOps automation tools
-- Scaling IEEE outreach programs to 5,000+ students
-- Contributing to open-source AI/ML frameworks
-- Exploring opportunities in AI product management and engineering roles
+- Scaling FeatureSmith through its public roadmap (recommendation engine, dashboard, CI/CD plugins)
+- Growing RallyVerse's partner network and event calendar
+- Leading ARIP's product roadmap and discovery at SOYL AI
+- Expanding Prodily's curriculum and community features
+- Continuing to explore AI product management and 0→1 product roles
 
 ---
 
 <div align="center">
 <br>
 
-*"Building intelligent systems isn't about the tech stack. It's about solving real problems with measurable impact."*
+*"Building products isn't about the tech stack. It's about solving real problems with systems that actually ship."*
 
 <br>
 
-**If you're building something ambitious in AI, project management, or intelligent software — let's connect.**
+**If you're building something ambitious in AI, product, or intelligent software — let's connect.**
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-gangwani-615271246/)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityagangwaniexam@gmail.com)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya@adityagangwani.me)
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://adityagangwani.me)
 
 </div>
